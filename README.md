@@ -5,7 +5,7 @@ Overview of the analysis
 Describe the differences in ride-sharing data among the different city types. This includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
   ###### Figure 1
-  ![PyBer_Summary](https://github.com/kylegross/PyBer_Analysis/blob/master/PyBer_Summary.png)
+  ![Pyber_Summary](https://github.com/kylegross/PyBer_Analysis/blob/master/Pyber_Summary.png)
 
   ##### Urban
 
