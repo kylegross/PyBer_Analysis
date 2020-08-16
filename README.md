@@ -1,4 +1,4 @@
-# PyBer Analysis
+# PyBer_Analysis
 This study was built from the analysis of ride-sharing fares, riders, and drivers by type of city (i.e., rural, suburban, and urban), with January 1st-May 8th, 2019 serving as the snapshot in time. With this information, PyBer aims to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 The "Results" and "Summary" sections provide a detailed summary of how the ride-sharing data differs by city type and how those differences can be utilized by PyBer stakeholders.
 
